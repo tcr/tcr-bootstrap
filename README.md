@@ -2,7 +2,7 @@
 
 Digital memories.
 
-   * [flask](https://github.com/timcameronryan/tcr-bootstrap/tree/flask)
+   * ## [flask branch](https://github.com/timcameronryan/tcr-bootstrap/tree/flask)
      
      [Getting started with Flask on Heroku](https://devcenter.heroku.com/articles/python)
     
@@ -11,7 +11,7 @@ Digital memories.
          git branch -m flask master
          git remote rm origin
 
-   * [node](https://github.com/timcameronryan/tcr-bootstrap/tree/node)
+   * ## [node branch](https://github.com/timcameronryan/tcr-bootstrap/tree/node)
     
      [Getting started with Node on Heroku](https://devcenter.heroku.com/articles/nodejs)
     
