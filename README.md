@@ -9,6 +9,7 @@ Digital memories.
          git clone git@github.com:timcameronryan/tcr-bootstrap.git -b flask flask_app
          cd flask_app
          git branch -m flask master
+         git remote rm origin
 
    * [node](https://github.com/timcameronryan/tcr-bootstrap/tree/node)
     
@@ -17,4 +18,5 @@ Digital memories.
          git clone git@github.com:timcameronryan/tcr-bootstrap.git -b flask node_app
          cd node_app
          git branch -m node master
+         git remote rm origin
 
